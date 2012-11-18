@@ -1,0 +1,10 @@
+第2章 关于MapReduce		
+				23页
+
+第5章 MapReduce应用开发
+第6章 MapReduce的工作机制
+第7章 MapReduce的类型与格式
+第8章 MapReduce的特性		
+				128页
+
+总计				151页
